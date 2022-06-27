@@ -217,14 +217,14 @@ const footerListsModule = function() {
     });
 };
 
-selectModule({
-    selectClass: '.footer__select',
-    selectListClass: '.footer__select-list',
-    selectTriggerClass: '.footer__select-trigger',
-});
+// selectModule({
+//     selectClass: '.footer__select',
+//     selectListClass: '.footer__select-list',
+//     selectTriggerClass: '.footer__select-trigger',
+// });
 
-footerListsModule();
-smoothScrollModule();
+// footerListsModule();
+// smoothScrollModule();
 showCategoriesModule();
 categoriesAccordionModule();
 showFiltersResultModule();
